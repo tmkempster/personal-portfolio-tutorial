@@ -68,13 +68,13 @@ const socials: Social[] = [
     //     bgColor: '#ea4c89',
     //     color: '#ffffff'
     // },
-    // {
-    //     name: 'LinkedIn',
-    //     url: '',
-    //     icon: faLinkedin,
-    //     bgColor: '#0a66c2',
-    //     color: '#ffffff'
-    // }
+    {
+        name: 'LinkedIn',
+        url: 'https://www.linkedin.com/in/timothy-kempster/',
+        icon: faLinkedin,
+        bgColor: '#0a66c2',
+        color: '#ffffff'
+    }
 ];
 
 export default socials;
